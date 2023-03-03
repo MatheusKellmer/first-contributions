@@ -29,7 +29,7 @@
 - [Sri Aditya] (https://github.com/SriLikesToSing/)
 - [Mohamed Marzuq](https://github.com/mohamedmarzuq5/)
 - [Manu B M](https://github.com/ManuBM555)
-- [Himanshu Chauhan](https://github.com/hc011)
+- [Himanshu Chauhan](https://github.com/hc011)clea
 - [Anietie Brownson](https://github.com/AJBrownson)
 - [Talha Mehar](https://github.com/talhamehar007)
 - [Md Daud](https://github.com/daud0x0)
